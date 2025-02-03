@@ -20,6 +20,12 @@ img {
     max-width: 100%;
 }
 
+.container {
+    margin: 0 auto;
+    padding: 0 15 px;
+    max-width: 1158px;
+}
+
 /* header*/
 
 .title-header{
@@ -27,10 +33,8 @@ img {
 
 }
 
-.container-main-header {
-    margin: 0 auto;
-    padding: 0 15 px;
-    max-width: 1158px;  
+.container-header {
+   
     display: flex;
     align-items: center;
 }
